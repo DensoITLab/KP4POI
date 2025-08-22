@@ -41,7 +41,7 @@ bash run_poi.sh
 ---
 # Citation
 If you find this work useful, please cite our paper:
-```
+```bibtex
 @inproceedings{
   author    = {Yuuki Tachioka},
   title     = {{KP4POI}: Efficient POI Recommendation on Large-Scale Datasets via Knowledge Prompting of Venues and Users},
