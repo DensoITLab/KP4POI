@@ -18,14 +18,13 @@ This is based on KP4SR.
 
 
 # data preprocess
-First, convert and add information to the original data.
-See README.md in the `preprocess` directory
-
-Second, convert data required by KP4SR.
-See README.md in the `data` directory for experiment
+1. convert and add information to the original data
+    - See README.md in the `preprocess` directory
+2. convert data required by KP4SR
+    - See README.md in the `data` directory for experiment
 
 # Model training and testing
-After data are prepared, `bash run.sh`
+After data are prepared, `bash run_poi.sh`
 
 # citation
 If you find this useful, please cite our paper.
