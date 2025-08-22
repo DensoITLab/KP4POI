@@ -1,17 +1,38 @@
 # KP4POI
-Knowledge prompting for point of interest (POI) recommendation
+Knowledge prompting for point of interest (POI) recommendation.
+
+![KP4POI](image/LLM_recom.png)
 
 This is based on KP4SR.
 1. Clone KP4SR, which is our baseline model `https://github.com/zhaijianyang/kp4sr`
 2. Update files in `scripts` and `src` directories
 
+# knowledge prompt for POI recommendation
+
+## masked personalized prompt
+![MPP](image/mpp.png)
+## venue knowledge prompt
+![kp_venue](image/kp_venue.png)
+## user knowledge prompt
+![kp_user](image/kp_user.png)
+
+
 # data preprocess
+First, convert and add information to the original data.
 See README.md in the `preprocess` directory
 
-# data construction
+Second, convert data required by KP4SR.
 See README.md in the `data` directory for experiment
 
+# Model training and testing
 After data are prepared, `bash run.sh`
 
 # citation
-Yuuki Tachioka: KP4POI: Efficient POI recommendation on large-scale datasets via knowledge prompting of venues and users, ACM RecSys Workshop on Recommenders in Tourism @ 19th ACM Conference on Recommender Systems (RecSys 2025), Prague, Czech Republic
+If you find this useful, please cite our paper.
+```
+Yuuki Tachioka
+KP4POI: Efficient POI recommendation on large-scale datasets via knowledge prompting of venues and users
+ACM RecSys Workshop on Recommenders in Tourism @ 19th ACM Conference on Recommender Systems (RecSys 2025)
+Prague, Czech Republic
+Sep. 2025
+```
