@@ -4,7 +4,7 @@ Knowledge prompting for point of interest (POI) recommendation.
 ![KP4POI](image/LLM_recom.png)
 
 This is based on KP4SR.
-1. Clone KP4SR, which is our baseline model `https://github.com/zhaijianyang/kp4sr`
+1. Clone KP4SR, which is our baseline model [github](https://github.com/zhaijianyang/kp4sr)
 2. Update files in `scripts` and `src` directories
 
 # knowledge prompt for POI recommendation
