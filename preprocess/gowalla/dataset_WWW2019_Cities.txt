@@ -1,0 +1,664 @@
+Cuiaba	-15.615000	-56.093004	BR	Brazil	Provincial capital
+Brasilia	-15.792111	-47.897748	BR	Brazil	National and provincial capital
+Goiania	-16.727004	-49.255001	BR	Brazil	Provincial capital
+Campo Grande	-20.450997	-54.615996	BR	Brazil	Provincial capital
+Puerto Presidente Stroessner	-25.526997	-54.622997	PY	Paraguay	Provincial capital
+Talca	-35.423001	-71.659998	CL	Chile	Provincial capital
+Concepcion	-36.826002	-73.054998	CL	Chile	Provincial capital
+Temuco	-38.728998	-72.575999	CL	Chile	Provincial capital
+Puerto Montt	-41.474997	-72.952002	CL	Chile	Provincial capital
+Antofagasta	-23.641002	-70.398999	CL	Chile	Provincial capital
+La Serena	-29.900997	-71.244999	CL	Chile	Provincial capital
+Valparaiso	-33.021000	-71.555004	CL	Chile	Provincial capital
+Santiago	-33.475023	-70.647515	CL	Chile	National and provincial capital
+Coquimbo	-29.959002	-71.332002	CL	Chile	Other
+Guayaquil	-2.203092	-79.907877	EC	Ecuador	Provincial capital
+Rio Branco	-9.979002	-67.812003	BR	Brazil	Provincial capital
+Quito	-0.229500	-78.524279	EC	Ecuador	National and provincial capital
+Callao	-12.057003	-77.144004	PE	Peru	Provincial capital
+Iquique	-20.221002	-70.148997	CL	Chile	Provincial capital
+Lima	-12.081996	-77.045004	PE	Peru	National and provincial capital
+Belem	-1.439001	-48.498002	BR	Brazil	Provincial capital
+Santarem	-2.459997	-54.610002	BR	Brazil	Other
+Manaus	-3.122001	-60.014997	BR	Brazil	Provincial capital
+Porto Velho	-8.762004	-63.906003	BR	Brazil	Provincial capital
+Palmas	-10.212768	-48.360348	BR	Brazil	Provincial capital
+Asuncion	-25.305003	-57.621995	PY	Paraguay	National capital
+Buenos Aires	-34.622496	-58.449834	AR	Argentina	National and provincial capital
+Cordoba	-31.316004	-64.179999	AR	Argentina	Provincial capital
+Sao Paulo	-23.580999	-46.622996	BR	Brazil	Provincial capital
+Santos	-23.954697	-46.309490	BR	Brazil	Other
+Curitiba	-25.430004	-49.284999	BR	Brazil	Provincial capital
+Florianopolis	-27.576000	-48.618998	BR	Brazil	Provincial capital
+Porto Alegre	-30.040002	-51.208002	BR	Brazil	Provincial capital
+Montevideo	-34.920000	-56.169998	UY	Uruguay	National and provincial capital
+Salvador	-12.993003	-38.481003	BR	Brazil	Provincial capital
+Belo Horizonte	-19.852002	-43.909002	BR	Brazil	Provincial capital
+Vitoria	-20.332998	-40.413995	BR	Brazil	Provincial capital
+Rio de Janeiro	-22.721571	-43.455185	BR	Brazil	Other
+Niteroi	-22.839003	-42.881004	BR	Brazil	Provincial capital
+Sao Luis	-2.514996	-44.300996	BR	Brazil	Provincial capital
+Fortaleza	-3.782997	-38.589002	BR	Brazil	Provincial capital
+Teresina	-5.104998	-42.802001	BR	Brazil	Provincial capital
+Natal	-5.805999	-35.210997	BR	Brazil	Provincial capital
+Joao Pessoa	-7.129998	-34.866998	BR	Brazil	Provincial capital
+Recife	-8.084997	-34.914995	BR	Brazil	Provincial capital
+Maceio	-9.676890	-35.747720	BR	Brazil	Provincial capital
+Aracaju	-10.910997	-37.060001	BR	Brazil	Provincial capital
+New Orleans	29.956383	-90.098694	US	United States	Other
+Houston	29.771829	-95.407110	US	United States	Other
+Honolulu	21.329001	-157.861998	US	United States	Provincial capital
+Edmonton	53.556003	-113.508000	CA	Canada	Provincial capital
+Calgary	51.030000	-114.049998	CA	Canada	Other
+Vancouver	49.274298	-122.963067	CA	Canada	Other
+Seattle	47.588553	-122.316651	US	United States	Other
+Portland	45.442125	-122.641686	US	United States	Other
+Saint Paul	45.020997	-93.065004	US	United States	Provincial capital
+Minneapolis	44.924193	-93.307787	US	United States	Other
+Des Moines	41.598000	-93.621996	US	United States	Provincial capital
+Oklahoma City	35.489997	-97.530003	US	United States	Provincial capital
+San Diego	32.761458	-117.125496	US	United States	Other
+Oakland	37.810458	-122.271471	US	United States	Other
+Sacramento	38.566998	-121.422996	US	United States	Provincial capital
+San Francisco	37.795815	-122.380092	US	United States	Other
+San Jose	37.308105	-121.847454	US	United States	Other
+Los Angeles	34.000002	-118.250001	US	United States	Other
+Salt Lake City	40.692996	-111.891996	US	United States	Provincial capital
+Denver	39.578004	-105.078996	US	United States	Provincial capital
+Kansas City	38.994120	-94.626566	US	United States	Other
+St. Louis	38.638881	-90.341982	US	United States	Other
+Memphis	35.114724	-90.000324	US	United States	Other
+Phoenix	33.508998	-112.110003	US	United States	Provincial capital
+El Paso	31.779999	-106.450002	US	United States	Other
+Hermosillo	29.094003	-110.961999	MX	Mexico	Provincial capital
+La Paz	24.156423	-110.309526	MX	Mexico	Provincial capital
+Dallas	32.763726	-96.663690	US	United States	Other
+Austin	30.279996	-97.732998	US	United States	Provincial capital
+San Antonio	29.429919	-98.524575	US	United States	Other
+Monterrey	25.677000	-100.316996	MX	Mexico	Provincial capital
+Aguascalientes	21.888000	-102.290004	MX	Mexico	Provincial capital
+Guadalajara	20.673999	-103.344003	MX	Mexico	Provincial capital
+Colima	19.251000	-103.734999	MX	Mexico	Provincial capital
+Tampico	22.243239	-97.842627	MX	Mexico	Other
+Campeche	19.854999	-90.525996	MX	Mexico	Provincial capital
+Jalapa	19.532997	-96.903000	MX	Mexico	Provincial capital
+Puebla	19.048635	-98.192943	MX	Mexico	Other
+Villahermosa	17.975997	-92.936997	MX	Mexico	Provincial capital
+Oaxaca	17.062002	-96.714000	MX	Mexico	Provincial capital
+Tuxtla Gutierrez	16.743996	-93.108996	MX	Mexico	Provincial capital
+Veracruz	19.185003	-96.122996	MX	Mexico	Other
+San Luis Potosi	22.151997	-100.980000	MX	Mexico	Provincial capital
+Queretaro	20.583000	-100.386999	MX	Mexico	Provincial capital
+Pachuca	20.120004	-98.755002	MX	Mexico	Provincial capital
+Morelia	19.697004	-101.185002	MX	Mexico	Provincial capital
+Mexico City	19.427049	-99.127575	MX	Mexico	National and provincial capital
+Toluca	19.283004	-99.666702	MX	Mexico	Provincial capital
+Cuernavaca	18.920997	-99.221004	MX	Mexico	Provincial capital
+Alajuela	10.016001	-84.221000	CR	Costa Rica	Provincial capital
+Heredia	9.991998	-84.120003	CR	Costa Rica	Provincial capital
+San Jose	9.930474	-84.078621	CR	Costa Rica	National and provincial capital
+Cartago	9.856998	-83.921004	CR	Costa Rica	Provincial capital
+Panama	9.002880	-79.517079	PA	Panama	National and provincial capital
+San Salvador	13.701411	-89.200233	SV	El Salvador	National and provincial capital
+Nueva San Salvador	13.673997	-89.289998	SV	El Salvador	Provincial capital
+Merida	20.982996	-89.628002	MX	Mexico	Provincial capital
+Halfway Tree	18.033300	-76.799997	JM	Jamaica	Provincial capital
+Spanish Town	17.994996	-76.951998	JM	Jamaica	Provincial capital
+Kingston	17.966925	-76.799520	JM	Jamaica	National and provincial capital
+Santo Domingo	18.488997	-69.899004	DO	Dominican Republic	National and provincial capital
+San Cristobal	18.415998	-70.109001	DO	Dominican Republic	Provincial capital
+Cali	3.456999	-76.521996	CO	Colombia	Provincial capital
+Bogota	4.630221	-74.080512	CO	Colombia	National capital and provincial capital enclave
+Barranquilla	10.983996	-74.806001	CO	Colombia	Provincial capital
+Medellin	6.240996	-75.591999	CO	Colombia	Provincial capital
+Toronto	43.720767	-79.412633	CA	Canada	Provincial capital
+Buffalo	42.898662	-78.848433	US	United States	Other
+Detroit	42.394320	-83.078928	US	United States	Other
+Cleveland	41.390721	-81.727506	US	United States	Other
+Pittsburgh	40.497201	-79.997085	US	United States	Other
+Columbus	40.044996	-82.992996	US	United States	Provincial capital
+Tallahassee	30.449997	-84.300003	US	United States	Provincial capital
+Jacksonville	30.330000	-81.659997	US	United States	Other
+Tampa	27.997353	-82.593027	US	United States	Other
+Miami	25.832124	-80.270216	US	United States	Other
+Milwaukee	43.067943	-87.990741	US	United States	Other
+Madison	43.066665	-89.399997	US	United States	Provincial capital
+Lansing	42.725997	-84.557997	US	United States	Provincial capital
+Chicago	41.826546	-87.641298	US	United States	Other
+Indianapolis	39.814002	-86.135004	US	United States	Provincial capital
+Cincinnati	39.148011	-84.477014	US	United States	Other
+Nashville	36.142002	-86.817996	US	United States	Provincial capital
+Charlotte	35.205822	-80.835678	US	United States	Other
+Columbia	34.013997	-80.997003	US	United States	Provincial capital
+Atlanta	33.795999	-84.348998	US	United States	Provincial capital
+Baltimore	39.321882	-76.618385	US	United States	Other
+Washington D.C.	38.890908	-76.953834	US	United States	National and provincial capital
+Richmond	37.563003	-77.472999	US	United States	Provincial capital
+Norfolk	36.879291	-76.268574	US	United States	Other
+Raleigh	35.791002	-78.643997	US	United States	Provincial capital
+Brooklyn	40.663962	-74.011221	US	United States	Other
+Chester	39.869163	-75.369168	US	United States	Other
+Rochester	43.210467	-77.635611	US	United States	Other
+Newark	40.719996	-74.199996	US	United States	Other
+New York	40.707864	-73.905237	US	United States	Other
+Harrisburg	40.265001	-76.904001	US	United States	Provincial capital
+Trenton	40.224996	-74.781000	US	United States	Provincial capital
+Philadelphia	39.927555	-75.218229	US	United States	Other
+Boston	42.374997	-71.102996	US	United States	Provincial capital
+Providence	41.815998	-71.425998	US	United States	Provincial capital
+Hartford	41.760000	-72.702999	US	United States	Provincial capital
+Caracas	10.496043	-66.898277	VE	Venezuela	National and provincial capital
+Boa Vista	2.817999	-60.663996	BR	Brazil	Provincial capital
+Port of Spain	10.639737	-61.490060	TT	Trinidad & Tobago	National capital
+San Juan	18.398997	-66.068999	PR	Puerto Rico	National and provincial capital
+Fort-De-France	14.607432	-61.075998	MQ	Martinique	National and provincial capital
+Macapa	0.036000	-51.048000	BR	Brazil	Provincial capital
+Montreal	45.541017	-73.653534	CA	Canada	Other
+Ottawa	45.374004	-75.651003	CA	Canada	National capital
+Fawley	50.816700	-1.333295	GB	United Kingdom	Other
+Sheffield	53.374041	-1.462995	GB	United Kingdom	Other
+Dublin	53.341560	-6.257349	IE	Ireland	National and provincial capital
+Birmingham	52.492752	-1.863342	GB	United Kingdom	Other
+London	51.487911	-0.178002	GB	United Kingdom	National and provincial capital
+Edinburgh	55.924002	-3.249998	GB	United Kingdom	Provincial capital
+Glasgow	55.862811	-4.269941	GB	United Kingdom	Other
+Leeds	53.808705	-1.497528	GB	United Kingdom	Other
+Manchester	53.479665	-2.261781	GB	United Kingdom	Other
+Liverpool	53.423001	-2.970998	GB	United Kingdom	Other
+Porto	41.166000	-8.585000	PT	Portugal	Provincial capital
+Valencia	39.471003	-0.367001	ES	Spain	Provincial capital
+Lisbon	38.729997	-9.129995	PT	Portugal	National and provincial capital
+Seville	37.373004	-5.970995	ES	Spain	Provincial capital
+Madrid	40.442220	-3.690972	ES	Spain	National and provincial capital
+Casablanca	33.605001	-7.631999	MA	Morocco	Provincial capital
+Accra	5.558562	-0.200924	GH	Ghana	National and provincial capital
+Barcelona	41.357997	2.159002	ES	Spain	Provincial capital
+Florence	43.781571	11.207746	IT	Italy	Other
+L'Ariana	36.866673	10.199998	TN	Tunisia	Provincial capital
+Tunis	36.819000	10.166005	TN	Tunisia	National and provincial capital
+Bologna	44.503002	11.333997	IT	Italy	Provincial capital
+Rome	41.879997	12.520000	IT	Italy	National and provincial capital
+Zonguldak	41.455998	31.798999	TR	Turkey	Provincial capital
+Bolu	40.739004	31.611997	TR	Turkey	Provincial capital
+Ankara	39.929004	32.852998	TR	Turkey	National and provincial capital
+Kyrenia	35.325999	33.333004	CY	Cyprus	Provincial capital
+Nicosia	35.171001	33.369004	CY	Cyprus	National and provincial capital
+Cairo	30.077910	31.250800	EG	Egypt	National and provincial capital
+Giza	30.051513	31.220956	EG	Egypt	Other
+Piraeus	37.956294	23.688378	GR	Greece	Other
+Manisa	38.619000	27.429004	TR	Turkey	Provincial capital
+Izmir	38.432997	27.145000	TR	Turkey	Provincial capital
+Chios	38.373003	26.138998	GR	Greece	Provincial capital
+Aydin	37.855998	27.842005	TR	Turkey	Provincial capital
+Athens	37.944000	23.653000	GR	Greece	National capital
+Edirne	41.681997	26.561998	TR	Turkey	Provincial capital
+Tekirdag	40.984695	27.516664	TR	Turkey	Provincial capital
+Thessaloniki	40.629996	22.799997	GR	Greece	Other
+Canakkale	40.155003	26.414002	TR	Turkey	Provincial capital
+Balikesir	39.647997	27.883000	TR	Turkey	Provincial capital
+Sofia	42.707268	23.331871	BG	Bulgaria	National capital and provincial capital enclave
+Bucharest	44.430480	26.122969	RO	Romania	National and provincial capital
+Istanbul	41.066001	29.006002	TR	Turkey	Provincial capital
+Kocaeli	40.773996	29.923002	TR	Turkey	Provincial capital
+Sakarya	40.766661	30.400003	TR	Turkey	Provincial capital
+Bursa	40.195998	29.075004	TR	Turkey	Provincial capital
+Eskisehir	39.783996	30.519000	TR	Turkey	Provincial capital
+Kutahya	39.419001	29.980000	TR	Turkey	Provincial capital
+Afyon	38.763999	30.539998	TR	Turkey	Provincial capital
+Konya	37.878003	32.482000	TR	Turkey	Provincial capital
+Denizli	37.776996	29.086003	TR	Turkey	Provincial capital
+Isparta	37.764999	30.556999	TR	Turkey	Provincial capital
+Mugla	37.220004	28.367002	TR	Turkey	Provincial capital
+Antalya	36.892998	30.709000	TR	Turkey	Provincial capital
+Malatya	38.355003	38.309005	TR	Turkey	Provincial capital
+Kahramanmaras	37.585998	36.937000	TR	Turkey	Provincial capital
+Sanhurfa	37.159002	38.797003	TR	Turkey	Provincial capital
+Aintab	37.069002	37.389997	TR	Turkey	Provincial capital
+Kayseri	38.730996	35.479000	TR	Turkey	Provincial capital
+Seyhan	36.999999	35.324002	TR	Turkey	Provincial capital
+Mersin	36.797004	34.646005	TR	Turkey	Provincial capital
+Antioch	36.233334	36.116677	TR	Turkey	Provincial capital
+Ammochostos	35.106003	33.949999	CY	Cyprus	Provincial capital
+Beirut	33.883326	35.499997	LB	Lebanon	National and provincial capital
+B'abda	33.833304	35.533297	LB	Lebanon	Provincial capital
+Samsun	41.292999	36.331003	TR	Turkey	Provincial capital
+Ordu	40.984002	37.875997	TR	Turkey	Provincial capital
+Giresun	40.913001	38.390005	TR	Turkey	Provincial capital
+Rize	41.020002	40.523004	TR	Turkey	Provincial capital
+Trabzon	41.001003	39.718000	TR	Turkey	Provincial capital
+Ramla	31.916700	34.866703	IL	Israel	Provincial capital
+Tel Aviv-Yafo	32.045004	34.769998	IL	Israel	Provincial capital
+As-Salt	32.042997	35.722999	JO	Jordan	Provincial capital
+Amman	31.949379	35.932906	JO	Jordan	National and provincial capital
+Jeddah	21.543003	39.173005	SA	Saudi Arabia	Other
+Frankfurt	50.130000	8.668161	DE	Germany	Other
+Paris	48.881997	2.432998	FR	France	National and provincial capital
+Stuttgart	48.789999	9.181999	DE	Germany	Provincial capital
+Europoort	51.949998	4.133305	NL	Netherlands	Other
+'s-Hertogenbosch	51.683337	5.316660	NL	Netherlands	Provincial capital
+Bruges	51.210000	3.220003	BE	Belgium	Provincial capital
+Antwerpen	51.207003	4.426003	BE	Belgium	Provincial capital
+Gent	51.048000	3.735999	BE	Belgium	Provincial capital
+Hasselt	50.964003	5.483998	BE	Belgium	Provincial capital
+Brussels	50.837004	4.367998	BE	Belgium	National capital and provincial capital enclave
+Haarlem	52.387002	4.632003	NL	Netherlands	Provincial capital
+Amsterdam	52.373043	4.894839	NL	Netherlands	National capital
+Utrecht	52.100001	5.112001	NL	Netherlands	Provincial capital
+The Hague	52.075998	4.281004	NL	Netherlands	Provincial capital
+Rotterdam	51.925590	4.485151	NL	Netherlands	Other
+Arnhem	51.987996	5.923000	NL	Netherlands	Provincial capital
+Dusseldorf	51.240996	6.797998	DE	Germany	Provincial capital
+Maastricht	50.852997	5.677002	NL	Netherlands	Provincial capital
+Essen	51.354045	7.122439	DE	Germany	Other
+Cologne	50.942349	6.934870	DE	Germany	Other
+Hamburg	53.570997	10.027998	DE	Germany	Provincial capital
+Turin	45.074871	7.666426	IT	Italy	Other
+Milan	45.473004	9.189999	IT	Italy	Provincial capital
+Zurich	47.401002	8.533999	CH	Switzerland	Provincial capital
+Stockholm	59.331168	17.991451	SE	Sweden	National and provincial capital
+Prague	50.105997	14.456997	CZ	Czech Republic	National and provincial capital
+Vienna	48.202119	16.320979	AT	Austria	National capital and provincial capital enclave
+Munich	48.140973	11.542951	DE	Germany	Other
+Venice	45.424773	12.370717	IT	Italy	Other
+Berlin	52.516269	13.327570	DE	Germany	National and provincial capital
+Copenhagen	55.719999	12.549997	DK	Denmark	National capital and provincial capital enclave
+Kaliningrad	54.708003	20.503000	RU	Russia	Provincial capital
+Warsaw	52.244946	21.011878	PL	Poland	National and provincial capital
+Budapest	47.514996	19.094005	HU	Hungary	National capital and provincial capital enclave
+Smolensk	54.789003	32.037004	RU	Russia	Provincial capital
+Minsk	53.899938	27.575560	BY	Belarus	National and provincial capital
+Kyiv	50.448159	30.502108	UA	Ukraine	National and provincial capital
+Odesa	46.466667	30.733336	UA	Ukraine	Provincial capital
+Helsinki	60.196419	24.976702	FI	Finland	National and provincial capital
+Tallinn	59.416668	24.750001	EE	Estonia	National capital
+Riga	56.880000	24.049999	LV	Latvia	National capital
+Saint Petersburg	59.916663	30.250000	RU	Russia	Provincial capital
+Yaroslavl	57.607002	39.858004	RU	Russia	Provincial capital
+Ivanovo	57.012003	41.020003	RU	Russia	Provincial capital
+Tver	56.866671	35.916670	RU	Russia	Provincial capital
+Gor'kiy	56.289672	43.940674	RU	Russia	Provincial capital
+Volgograd	48.709998	44.484004	RU	Russia	Provincial capital
+Rostov-on-Don	47.232000	39.688003	RU	Russia	Provincial capital
+Kharkiv	49.989672	36.208306	UA	Ukraine	Provincial capital
+Dnipropetrovs'k	48.422997	35.137999	UA	Ukraine	Provincial capital
+Donets'k	48.040146	37.737054	UA	Ukraine	Provincial capital
+Krasnodar	45.036999	38.961001	RU	Russia	Provincial capital
+Moscow	55.749996	37.700002	RU	Russia	National and provincial capital
+Voronezh	51.714999	39.268999	RU	Russia	Provincial capital
+Vyatka	58.633326	49.699999	RU	Russia	Provincial capital
+Perm'	58.000239	56.232460	RU	Russia	Provincial capital
+Izevsk	56.850003	53.233336	RU	Russia	Provincial capital
+Sverdlovsk	56.846547	60.610132	RU	Russia	Provincial capital
+Ufa	54.821997	56.096002	RU	Russia	Provincial capital
+Ceboksary	56.150001	47.250001	RU	Russia	Provincial capital
+Kazan'	55.733013	49.145464	RU	Russia	Provincial capital
+Ul'yanovsk	54.305001	48.362005	RU	Russia	Provincial capital
+Kuybyskev	53.199999	50.149998	RU	Russia	Provincial capital
+Saratov	51.490998	45.953002	RU	Russia	Provincial capital
+Chelyabinsk	55.144998	61.392997	RU	Russia	Provincial capital
+Tomsk	56.477997	84.970999	RU	Russia	Provincial capital
+Omsk	55.062999	73.250002	RU	Russia	Provincial capital
+Novosibirsk	55.032003	82.943002	RU	Russia	Provincial capital
+Kuwait	29.385918	47.974042	KW	Kuwait	National and provincial capital
+Hawalli	29.333340	47.999998	KW	Kuwait	Provincial capital
+Al-Ahmadi	29.097000	48.068002	KW	Kuwait	Provincial capital
+Ad Damman	26.333298	50.083300	SA	Saudi Arabia	Provincial capital
+Al-Muharraq	26.262000	50.616001	BH	Bahrain	Provincial capital
+Manama	26.216667	50.583340	BH	Bahrain	National and provincial capital
+Jidd Hafs	26.215956	50.537872	BH	Bahrain	Provincial capital
+Ar Rifa	26.120997	50.549005	BH	Bahrain	Provincial capital
+Sitrah	26.100000	50.613850	BH	Bahrain	Provincial capital
+Riyadh	24.650001	46.770004	SA	Saudi Arabia	National and provincial capital
+Ajman	25.402860	55.441090	AE	United Arab Emirates	Provincial capital
+Sharjah	25.371999	55.411003	AE	United Arab Emirates	Provincial capital
+Doha	25.284357	51.532336	QA	Qatar	National and provincial capital
+Dubai	25.271001	55.329004	AE	United Arab Emirates	Provincial capital
+Abu Dhabi	24.476004	54.370999	AE	United Arab Emirates	National and provincial capital
+Baku	40.323996	49.816000	AZ	Azerbaijan	National and provincial capital
+Muscat	23.607000	58.588003	OM	Oman	National and provincial capital
+Delhi	28.666665	77.216662	IN	India	Provincial capital
+New Delhi	28.568727	77.216752	IN	India	National capital
+Almaty	43.255062	76.912624	KZ	Kazakhstan	Provincial capital
+Chennai	13.061997	80.247997	IN	India	Provincial capital
+Mumbai	19.077003	72.826003	IN	India	Provincial capital
+Pune	18.535743	73.852273	IN	India	Other
+Hyderabad	17.395002	78.485005	IN	India	Provincial capital
+Bangalore	12.974751	77.587732	IN	India	Other
+Colombo	6.927003	79.848001	LK	Sri Lanka	National and provincial capital
+Davao	7.080084	125.613685	PH	Philippines	Other
+Manado	1.483335	124.849999	ID	Indonesia	Provincial capital
+Hiroshima	34.378002	132.445009	JP	Japan	Provincial capital
+Shimonoseki	33.949998	130.933297	JP	Japan	Other
+Chang Rai	19.906002	99.833005	TH	Thailand	Provincial capital
+Phuket	7.876998	98.385004	TH	Thailand	Provincial capital
+Banda Aceh	5.566662	95.333338	ID	Indonesia	Provincial capital
+Ipoh	4.590999	101.076004	MY	Malaysia	Provincial capital
+Medan	3.584997	98.676001	ID	Indonesia	Provincial capital
+Pinang	5.364000	100.311004	MY	Malaysia	Provincial capital
+Kangar	6.433002	100.189999	MY	Malaysia	Provincial capital
+Alor Setar	6.111000	100.361998	MY	Malaysia	Provincial capital
+Chiang Mai	18.786996	99.000001	TH	Thailand	Provincial capital
+Phra Nakhon Si Ayutthaya	14.344002	100.560997	TH	Thailand	Provincial capital
+Pathum Thani	14.016699	100.533304	TH	Thailand	Provincial capital
+Nonthaburi	13.848039	100.519858	TH	Thailand	Provincial capital
+Bangkok	13.750002	100.516672	TH	Thailand	National and provincial capital
+Samut Prakan	13.588002	100.603999	TH	Thailand	Provincial capital
+Samut Sakhon	13.536000	100.274005	TH	Thailand	Provincial capital
+Chon Buri	13.367997	100.987003	TH	Thailand	Provincial capital
+Nakhon Pathom	13.817997	100.063999	TH	Thailand	Provincial capital
+Khon Kaen	16.433001	102.836998	TH	Thailand	Provincial capital
+Nakhon Ratchasima	14.968998	102.102004	TH	Thailand	Provincial capital
+Udon Thani	17.406999	102.790000	TH	Thailand	Provincial capital
+Kuantan New Port	3.799998	103.333303	MY	Malaysia	Other
+Kuala Terengganu	5.325003	103.141000	MY	Malaysia	Provincial capital
+Kuala Lumpur	3.150000	101.708002	MY	Malaysia	National and provincial capital
+Shah Alam	3.066696	101.549998	MY	Malaysia	Provincial capital
+Kuching	1.548999	110.343997	MY	Malaysia	Provincial capital
+Seremban	2.708001	101.950003	MY	Malaysia	Provincial capital
+Melaka	2.199996	102.255004	MY	Malaysia	Provincial capital
+Johor Baharu	1.500003	103.760002	MY	Malaysia	Provincial capital
+Pekanbaru	0.550998	101.432998	ID	Indonesia	Provincial capital
+Singapore	1.268856	103.831795	SG	Singapore	National capital
+Kota Baharu	6.118002	102.240001	MY	Malaysia	Provincial capital
+Ho Chi Minh City	10.759185	106.662457	VN	Vietnam	Other
+Taipei	25.035093	121.506724	CN	China	Provincial capital
+Shanghai	31.248000	121.473001	CN	China	Provincial capital
+Beijing	39.906189	116.388037	CN	China	National and provincial capital
+Vladivostok	43.129998	131.960440	RU	Russia	Provincial capital
+Pusan	35.157996	129.054988	KR	South Korea	Provincial capital enclave
+Inch`on	37.486242	126.633421	KR	South Korea	Other
+Seoul	37.542357	126.935245	KR	South Korea	National capital and provincial capital enclave
+Fukuoka	33.579999	130.401991	JP	Japan	Provincial capital
+Naha	26.205003	127.692001	JP	Japan	Provincial capital
+Kowloon	22.379904	114.230116	CN	China	Other
+Hong Kong	22.274001	114.176998	CN	China	Other
+Quezon City	14.649993	121.033342	PH	Philippines	Other
+Manila	14.616702	120.966949	PH	Philippines	National and provincial capital
+Kota Kinabalu	5.967243	116.087581	MY	Malaysia	Provincial capital
+Krasnoyarsk	56.016666	92.833336	RU	Russia	Provincial capital
+Irkutsk	52.317000	104.248000	RU	Russia	Provincial capital
+Yakutsk	62.010000	129.830005	RU	Russia	Provincial capital
+Khabarovsk	48.431997	135.127000	RU	Russia	Provincial capital
+Sapporo	43.055001	141.345991	JP	Japan	Provincial capital
+Sendai	38.253996	140.891014	JP	Japan	Provincial capital
+Tokyo	35.683002	139.809007	JP	Japan	National and provincial capital
+Kawasaki	35.504577	139.727215	JP	Japan	Other
+Yokohama	35.436996	139.619998	JP	Japan	Other
+Nagoya	35.154999	136.921006	JP	Japan	Provincial capital
+Kyoto	35.009001	135.755002	JP	Japan	Other
+Kobe	34.690149	135.221212	JP	Japan	Other
+Osaka	34.635996	135.519004	JP	Japan	Provincial capital
+Gifu	35.409996	136.761994	JP	Japan	Provincial capital
+Cape Town	-33.978996	18.482005	ZA	South Africa	Provincial capital
+Nairobi	-1.269999	36.803998	KE	Kenya	National and provincial capital
+Johannesburg	-26.178957	28.004311	ZA	South Africa	Provincial capital
+Padang	-0.954000	100.351999	ID	Indonesia	Provincial capital
+Bandung	-6.912000	107.606998	ID	Indonesia	Provincial capital
+Semarang	-6.971004	110.426005	ID	Indonesia	Provincial capital
+Yogyakarta	-7.796997	110.368999	ID	Indonesia	Provincial capital
+Perth	-31.956003	115.853005	AU	Australia	Provincial capital
+Fremantle	-32.044167	115.934572	AU	Australia	Other
+Pontianak	-0.023004	109.339003	ID	Indonesia	Provincial capital
+Palembang	-2.990997	104.757004	ID	Indonesia	Provincial capital
+Tanjungkarang-Telukbetung	-5.409000	105.254002	ID	Indonesia	Provincial capital
+Jakarta	-6.166665	106.800004	ID	Indonesia	National and provincial capital
+Samarinda	-0.502002	117.154000	ID	Indonesia	Provincial capital
+Balikpapan	-1.209996	116.859997	ID	Indonesia	Other
+Bandjermasin	-3.328002	114.589000	ID	Indonesia	Provincial capital
+Surabaja	-7.399998	112.684375	ID	Indonesia	Other
+Mataram	-8.589996	116.137000	ID	Indonesia	Provincial capital
+Denpasar	-8.706690	115.217272	ID	Indonesia	Provincial capital
+Brisbane	-27.453996	153.026002	AU	Australia	Provincial capital
+Sydney	-33.889770	151.028200	AU	Australia	Other
+Adelaide	-34.811676	138.520828	AU	Australia	Provincial capital
+Melbourne	-37.852956	145.075105	AU	Australia	Other
+Auckland	-36.903996	174.761002	NZ	New Zealand	Provincial capital
+Porto-Novo	9.30769	2.315834	BJ	Benin	National capital
+Willemstad	12.226079	-69.060087	AN	Netherlands Antilles	National capital
+Kathmandu	28.394857	84.124008	NP	Nepal	National capital
+Basse-Terre	16.995971	-62.067641	GP	Guadeloupe	National capital
+Monaco	43.750298	7.412841	MC	Monaco	National capital
+Vilnius	55.169438	23.881275	LT	Lithuania	National capital
+Abuja	9.081999	8.675277	NG	Nigeria	National capital
+Belgrade	44.016521	21.005859	RS	Serbia	National capital
+Port-aux-Français	-49.280366	69.348557	TF	French Southern Territories	National capital
+Flying Fish Cove	-10.447525	105.690449	CX	Christmas Island	National capital
+Saipan	17.33083	145.38469	MP	Northern Mariana Islands	National capital
+Ulaanbaatar	46.862496	103.846656	MN	Mongolia	National capital
+Bandar Seri Begawan	4.535277	114.727669	BN	Brunei	National capital
+Havana	21.521757	-77.781167	CU	Cuba	National capital
+Honiara	-9.64571	160.156194	SB	Solomon Islands	National capital
+Marigot	18.073099	-63.082199	MF	Saint Martin	National capital
+Saint-Denis	-21.115141	55.536384	RE	Réunion	National capital
+Kinshasa	-4.038333	21.758664	CD	Democratic Republic of the Congo	National capital
+Bamako	17.570692	-3.996166	ML	Mali	National capital
+Tarawa	-3.370417	-168.734039	KI	Kiribati	National capital
+Hong Kong	22.396428	114.109497	HK	Hong Kong	National capital
+Paris	46.227638	2.213749	FX	France	National capital
+Malabo	1.650801	10.267895	GQ	Equatorial Guinea	National capital
+Luxembourg	49.815273	6.129583	LU	Luxembourg	National capital
+Vientiane	19.85627	102.495496	LA	Laos	National capital
+Damascus	34.802075	38.996815	SY	Syria	National capital
+Lomé	8.619543	0.824782	TG	Togo	National capital
+Cayenne	3.933889	-53.125782	GF	French Guiana	National capital
+Tegucigalpa	15.199999	-86.241905	HN	Honduras	National capital
+Kingstown	12.984305	-61.287228	VC	Saint Vincent and the Grenadines	National capital
+Vaduz	47.166	9.555373	LI	Liechtenstein	National capital
+Thimphu	27.514162	90.433601	BT	Bhutan	National capital
+Algiers	28.033886	1.659626	DZ	Algeria	National capital
+Díli	-8.874217	125.727539	TL	Timor-Leste	National capital
+Phnom Penh	12.565679	104.990963	KH	Cambodia	National capital
+Valletta	35.937496	14.375416	MT	Malta	National capital
+Dakar	14.497401	-14.452362	SN	Senegal	National capital
+Midway Atoll	28.13	177.22	UM	United States Minor Outlying Islands	National capital
+Islamabad	30.375321	69.345116	PK	Pakistan	National capital
+Yamoussoukro	7.539989	-5.54708	CI	Côte d'Ivoire	National capital
+Ouagadougou	12.238333	-1.561593	BF	Burkina Faso	National capital
+St. John's	17.060816	-61.796428	AG	Antigua and Barbuda	National capital
+Papeete	-17.679742	-149.406843	PF	French Polynesia	National capital
+Douglas	54.236107	-4.548056	IM	Isle of Man	National capital
+Naypyidaw	21.913965	95.956223	MM	Myanmar [Burma]	National capital
+Brazzaville	-0.228021	15.827659	CG	Republic of the Congo	National capital
+Roseau	15.414999	-61.370976	DM	Dominica	National capital
+Lilongwe	-13.254308	34.301525	MW	Malawi	National capital
+Nouakchott	21.00789	-10.940835	MR	Mauritania	National capital
+Luanda	-11.202692	17.873887	AO	Angola	National capital
+Andorra la Vella	42.546245	1.601554	AD	Andorra	National capital
+Monrovia	6.428055	-9.429499	LR	Liberia	National capital
+Bujumbura	-3.373056	29.918886	BI	Burundi	National capital
+Jerusalem	31.952162	35.233154	PS	Palestinian Territories	National capital
+Tirana	41.153332	20.168331	AL	Albania	National capital
+N'Djamena	15.454166	18.732207	TD	Chad	National capital
+Nassau	25.03428	-77.39628	BS	Bahamas	National capital
+Podgorica	42.708678	19.37439	ME	Montenegro	National capital
+Port Vila	-15.376706	166.959158	VU	Vanuatu	National capital
+Sarajevo	43.915886	17.679076	BA	Bosnia and Herzegovina	National capital
+Philipsburg	40.689339	-75.182089	SX	Sint Maarten	National capital
+Hamilton	32.321384	-64.75737	BM	Bermuda	National capital
+Suva	-16.578193	179.414413	FJ	Fiji	National capital
+Guatemala City	15.783471	-90.230759	GT	Guatemala	National capital
+Dodoma	-6.369028	34.888822	TZ	Tanzania	National capital
+Georgetown	4.860416	-58.93018	GY	Guyana	National capital
+Kigali	-1.940278	29.873888	RW	Rwanda	National capital
+Nouméa	-20.904305	165.618042	NC	New Caledonia	National capital
+Castries	13.909444	-60.978893	LC	Saint Lucia	National capital
+Charlotte Amalie	18.335765	-64.896335	VI	United States Virgin Islands	National capital
+Oslo	60.472024	8.468946	NO	Norway	National capital
+Majuro	7.131474	171.184478	MH	Marshall Islands	National capital
+Moroni	-11.875001	43.872219	KM	Comoros	National capital
+The Valley	18.220554	-63.068615	AI	Anguilla	National capital
+Harare	-19.015438	29.154857	ZW	Zimbabwe	National capital
+Jamestown	-24.143474	-10.030696	SH	Saint Helena	National capital
+Pyongyang	40.339852	127.510093	KP	North Korea	National capital
+Avarua	-21.236736	-159.777671	CK	Cook Islands	National capital
+Dhaka	23.684994	90.356331	BD	Bangladesh	National capital
+Ashgabat	38.969719	59.556278	TM	Turkmenistan	National capital
+Praia	16.002082	-24.013197	CV	Cape Verde	National capital
+St. Peter Port	49.465691	-2.585278	GG	Guernsey	National capital
+Addis Ababa	9.145	40.489673	ET	Ethiopia	National capital
+Antananarivo	-18.766947	46.869107	MG	Madagascar	National capital
+Ngerulmud	7.51498	134.58252	PW	Palau	National capital
+Malé	3.202778	73.22068	MV	Maldives	National capital
+Mariehamn	60.09726	19.93481	AX	Åland Islands	National capital
+Cockburn Town	21.694025	-71.797928	TC	Turks and Caicos Islands	National capital
+George Town	19.513469	-80.566956	KY	Cayman Islands	National capital
+Mbabane	-26.522503	31.465866	SZ	Swaziland	National capital
+Willemstad	12.1	-68.9167	CW	Curaçao	National capital
+Mogadishu	5.152149	46.199616	SO	Somalia	National capital
+Freetown	8.460555	-11.779889	SL	Sierra Leone	National capital
+Apia	-13.759029	-172.104629	WS	Samoa	National capital
+Port Louis	-20.348404	57.552152	MU	Mauritius	National capital
+Antarctica	-75.250973	-0.071389	AQ	Antarctica	National capital
+Tehran	32.427908	53.688046	IR	Iran	National capital
+Bridgetown	13.193887	-59.543198	BB	Barbados	National capital
+Zagreb	45.1	15.2	HR	Croatia	National capital
+Skopje	41.608635	21.745275	MK	Macedonia [FYROM]	National capital
+Chisinau	47.411631	28.369885	MD	Moldova	National capital
+Djibouti	11.825138	42.590275	DJ	Djibouti	National capital
+Baghdad	33.223191	43.679291	IQ	Iraq	National capital
+St. Helier	49.214439	-2.13125	JE	Jersey	National capital
+Tórshavn	61.892635	-6.911806	FO	Faroe Islands	National capital
+Dushanbe	38.861034	71.276093	TJ	Tajikistan	National capital
+Bouvet Island	-54.423199	3.413194	BV	Bouvet Island	National capital
+Taipei	23.69781	120.960515	TW	Republic of China [Taiwan]	National capital
+Paramaribo	3.919305	-56.027783	SR	Suriname	National capital
+Managua	12.865416	-85.207229	NI	Nicaragua	National capital
+Port Moresby	-6.314993	143.95555	PG	Papua New Guinea	National capital
+Pristina	42.602636	20.902977	XK	Kosovo	National capital
+Victoria	-4.679574	55.491977	SC	Seychelles	National capital
+Tbilisi	42.315407	43.356892	GE	Georgia	National capital
+Hagåtña	13.444304	144.793731	GU	Guam	National capital
+Yerevan	40.069099	45.038189	AM	Armenia	National capital
+Maputo	-18.665695	35.529562	MZ	Mozambique	National capital
+Tashkent	41.377491	64.585262	UZ	Uzbekistan	National capital
+Gaborone	-22.328474	24.684866	BW	Botswana	National capital
+Reykjavík	64.963051	-19.020835	IS	Iceland	National capital
+Kampala	1.373333	32.290275	UG	Uganda	National capital
+Libreville	-0.803689	11.609444	GA	Gabon	National capital
+Bratislava	48.669026	19.699024	SK	Slovakia	National capital
+Niamey	17.607789	8.081666	NE	Niger	National capital
+Khartoum	12.862807	30.217636	SD	Sudan	National capital
+St. George's	12.262776	-61.604171	GD	Grenada	National capital
+Macau	22.198745	113.543873	MO	Macau	National capital
+Road Town	18.420695	-64.639968	VG	British Virgin Islands	National capital
+Gibraltar	36.137741	-5.345374	GI	Gibraltar	National capital
+Conakry	9.945587	-9.696645	GN	Guinea	National capital
+Svalbard and Jan Mayen	77.553604	23.670272	SJ	Svalbard and Jan Mayen	National capital
+Nuuk	71.706936	-42.604303	GL	Greenland	National capital
+Vatican City	41.902916	12.453389	VA	Vatican City	National capital
+La Paz	-16.290154	-63.588653	BO	Bolivia	National capital
+Oranjestad	12.52111	-69.968338	AW	Aruba	National capital
+Belmopan	17.189877	-88.49765	BZ	Belize	National capital
+Sanaá	15.552727	48.516388	YE	Yemen	National capital
+Banjul	13.443182	-15.310139	GM	Gambia	National capital
+Tripoli	26.3351	17.228331	LY	Libya	National capital
+Yaoundé	7.369722	12.354722	CM	Cameroon	National capital
+Ljubljana	46.151241	14.995463	SI	Slovenia	National capital
+Clipperton Island	10.2999988	-109.2166658	CP	Clipperton Island	National capital
+El Aaiún	24.215527	-12.885834	EH	Western Sahara	National capital
+Basseterre	17.357822	-62.782998	KN	Saint Kitts and Nevis	National capital
+Lusaka	-13.133897	27.849332	ZM	Zambia	National capital
+Kabul	33.93911	67.709953	AF	Afghanistan	National capital
+Bishkek	41.20438	74.766098	KG	Kyrgyzstan	National capital
+San Marino	43.94236	12.457777	SM	San Marino	National capital
+Port-au-Prince	18.971187	-72.285215	HT	Haiti	National capital
+成都市	30.64997682119208	104.06206953642376	CN	中国	Other
+Thành phố Hà Nội	21.031939622641545	105.83191698113214	VN	Việt Nam	Other
+Marseille	43.2924115308151	5.389359840954273	FR	France	Other
+Winnipeg	49.879118556701016	-97.15348195876282	CA	Canada	Other
+Львів	49.83282633053213	24.02374789915968	UA	Україна	Other
+Strasbourg	48.58328662420381	7.755063694267519	FR	France	Other
+Santa Cruz de Tenerife	28.4639934640523	-16.26132352941177	ES	España	Other
+Nice	43.6965850340136	7.259894557823128	FR	France	Other
+Ciudad de Mendoza	-32.888358208955246	-68.84697388059699	AR	Argentina	Other
+Las Palmas de Gran Canaria	28.11882677165354	-15.43148818897638	ES	España	Other
+Lille	50.63360400000003	3.0585999999999998	FR	France	Other
+San Cristóbal de La Laguna	28.48061728395063	-16.31337037037036	ES	España	Other
+Варна	43.22155186721992	27.932518672199183	BG	България	Other
+Montpellier	43.61012162162163	3.8828783783783773	FR	France	Other
+Helsingborg	56.04150710900472	12.707374407582938	SE	Sverige	Other
+Bari	41.11250239234448	16.87340669856459	IT	Italia	Other
+San Carlos de Bariloche	-41.13150857142856	-71.36133714285714	AR	Argentina	Other
+Aix-en-Provence	43.522871951219514	5.429823170731709	FR	France	Other
+Windsor	42.29603472222223	-82.9981666666667	CA	Canada	Other
+Grenoble	45.18813274336284	5.723486725663718	FR	France	Other
+Iquitos	-3.7489633027522946	-73.24939449541284	PE	Perú	Other
+Δημοτική Ενότητα Ρόδου	36.437226415094344	28.222339622641496	GR	Ελλάς	Other
+Mulhouse	47.747701923076924	7.331817307692308	FR	France	Other
+Oradea	47.05181188118813	21.93047524752476	RO	România	Other
+昆明市	25.041474747474744	102.73445454545455	CN	中国	Other
+Timișoara	45.75279797979798	21.23015151515151	RO	România	Other
+San Cristóbal	7.76929347826087	-72.21652173913041	VE	Venezuela	Other
+Darwin	-12.423395348837207	130.85609302325582	AU	Australia	Other
+ยะลา	6.545821428571429	101.28634523809521	TH	ประเทศไทย	Other
+Lecce	40.35886746987951	18.169975903614464	IT	Italia	Other
+Ajaccio	41.92023170731708	8.730304878048779	FR	France	Other
+Grad Dubrovnik	42.656227848101274	18.082177215189873	HR	Hrvatska	Other
+تبوك	28.389240506329127	36.57239240506329	SA	السعودية	Other
+Neuquén	-38.954102564102584	-68.06982051282053	AR	Argentina	Other
+Івано-Франківськ	48.92164102564102	24.708320512820517	UA	Україна	Other
+Metz	49.11383116883116	6.179194805194805	FR	France	Other
+Innsbruck	47.26526388888888	11.398388888888885	AT	Österreich	Other
+Municipio de Posadas	-27.375164179104477	-55.89914925373134	AR	Argentina	Other
+Бургас	42.51042187499999	27.475906249999998	BG	България	Other
+Bordeaux	44.83834426229509	-0.5899180327868854	FR	France	Other
+Nancy	48.690833333333345	6.1784833333333316	FR	France	Other
+Nîmes	43.82844444444442	4.355092592592592	FR	France	Other
+郫都区	30.759500000000006	103.95927777777779	CN	中国	Other
+Ρόδος	36.411851851851864	28.166425925925925	GR	Ελλάς	Other
+Tromsø	69.65094117647058	18.939784313725493	NO	Norge	Other
+Thunder Bay	48.41501960784314	-89.25141176470586	CA	Canada	Other
+Wrocław	51.10138775510203	17.003938775510203	PL	Polska	Other
+Avignon	43.94508333333334	4.811395833333333	FR	France	Other
+Distrito Ciudad de Godoy Cruz	-32.91663829787233	-68.84587234042553	AR	Argentina	Other
+San Juan Bautista	-3.7782608695652162	-73.28654347826088	PE	Perú	Other
+双流区	30.561311111111113	103.98315555555556	CN	中国	Other
+Saalbach-Hinterglemm	47.383536585365846	12.60807317073171	AT	Österreich	Other
+San Andrés	12.581048780487807	-81.6957804878049	CO	Colombia	Other
+Ужгород	48.62213513513515	22.29643243243243	UA	Україна	Other
+Brindisi	40.63897297297297	17.925378378378383	IT	Italia	Other
+Guwahati	26.17683783783784	91.74845945945948	IN	India	Other
+哈尔滨市	45.74240540540541	126.63500000000002	CN	中国	Other
+Toulon	43.119638888888886	5.9350555555555555	FR	France	Other
+Annecy	45.90591666666667	6.130805555555556	FR	France	Other
+Шумен	43.271944444444436	26.932	BG	България	Other
+Valence	44.92547058823531	4.8940294117647065	FR	France	Other
+Brest	48.395264705882354	-4.482882352941177	FR	France	Other
+旌阳区	31.122151515151522	104.39351515151519	CN	中国	Other
+古城区	26.864060606060608	100.22945454545453	CN	中国	Other
+Pau	43.302687500000005	-0.36015625000000007	FR	France	Other
+Valenciennes	50.35859375	3.5189687500000004	FR	France	Other
+绵阳市	31.48093548387097	104.7335806451613	CN	中国	Other
+Thành phố Hạ Long	20.93543333333333	107.03866666666667	VN	Việt Nam	Other
+Perpignan	42.69950000000001	2.8916428571428576	FR	France	Other
+Windhoek	-22.56825	17.086678571428568	NA	Namibia	Other
+绿园区	43.86892592592593	125.24548148148148	CN	中国	Other
+大理市	25.728962962962964	100.18433333333334	CN	中国	Other
+道里区	45.75154166666667	126.56533333333336	CN	中国	Other
+乌鲁木齐市 ئۈرۈمچى	43.80778260869565	87.51908695652175	CN	中国	Other
+Legnica	51.20360869565217	16.16491304347826	PL	Polska	Other
+Grad Vinkovci	45.28990909090909	18.805499999999995	HR	Hrvatska	Other
+Crotone	39.07454545454545	17.12840909090909	IT	Italia	Other
+Prishtinë	42.657714285714285	21.15776190476191	XK	Kosova / Kosovo	Other
+Dunkerque	51.03589999999999	2.3737000000000004	FR	France	Other
+Saint-Denis	-20.88595	55.461200000000005	FR	France	Other
+Taranto	40.47595	17.249999999999996	IT	Italia	Other
+El Rosario	28.418631578947366	-16.333631578947365	ES	España	Other
+Los Realejos	28.384894736842103	-16.581631578947366	ES	España	Other
+Ақтау	43.64615789473685	51.1598947368421	KZ	Қазақстан	Other
+מועצה אזורית גולן	33.094578947368426	35.74473684210527	IL	ישראל	Other
+מועצה אזורית גליל עליון	33.12389473684211	35.61168421052631	IL	ישראל	Other
+西山区	25.007333333333335	102.66511111111112	CN	中国	Other
+Cipolletti	-38.94044444444444	-67.99600000000001	AR	Argentina	Other
+Wałbrzych	50.80144444444444	16.28005555555556	PL	Polska	Other
+Besançon	47.24099999999999	6.022277777777777	FR	France	Other
+מועצה אזורית עמק הירדן	32.830888888888886	35.58188888888889	IL	ישראל	Other
+天山区 تەڭرىتاغ رايونى	43.782375	87.6115	CN	中国	Other
+Batam	1.1775624999999998	104.11093749999999	ID	Indonesia	Other
+Ақтөбе Қ.Ә.	50.286500000000004	57.174249999999994	KZ	Қазақстан	Other
+Chatham	42.409800000000004	-82.1954	CA	Canada	Other
+Атырау	47.105666666666664	51.8954	KZ	Қазақстан	Other
+长春市	43.86606666666667	125.30006666666668	CN	中国	Other
+Arad	46.18486666666667	21.3278	RO	România	Other
+隆阳区	25.113599999999998	99.10486666666667	CN	中国	Other
+Osijek	45.55786666666666	18.680999999999997	HR	Hrvatska	Other
