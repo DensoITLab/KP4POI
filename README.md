@@ -30,9 +30,12 @@ After data are prepared, `bash run.sh`
 # citation
 If you find this useful, please cite our paper.
 ```
-Yuuki Tachioka
-KP4POI: Efficient POI recommendation on large-scale datasets via knowledge prompting of venues and users
-ACM RecSys Workshop on Recommenders in Tourism @ 19th ACM Conference on Recommender Systems (RecSys 2025)
-Prague, Czech Republic
-Sep. 2025
+@inproceedings{
+author = {Yuuki Tachioka},
+title = {{KP4POI}: Efficient POI recommendation on large-scale datasets via knowledge prompting of venues and users},
+booktitle = {Proceedings of ACM RecSys Workshop on Recommenders in Tourism @ 19th ACM Conference on Recommender Systems (RecSys 2025)},
+location = {Prague, Czech Republic},
+month = {9},
+year = {2025},
+}
 ```
