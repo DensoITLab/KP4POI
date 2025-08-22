@@ -19,9 +19,10 @@ prep() {
     cd -
 }
 
-train_conditioned() {
+train_and_test_conditioned() {
     outd=out/${task}_t5-small_2hop_d8_L5_1e-3_mask
     for i in ${info_types[$task]}; do
+        echo "start training ${i}"
         pushd data
         if [ -e ${task} ]; then
             rm ${task}
@@ -34,27 +35,14 @@ train_conditioned() {
         bash scripts/modelarts_train.sh ${task}
         mkdir ${outd}/${i}
         mv ${outd}/BEST_EVAL_LOSS{_opt.pth,.pth} ${outd}/train.log ${outd}/${i}/ || exit 1
+        
+        echo "start testing ${i}"
         bash scripts/modelarts_test.sh ${task} ${test_prompt} ${outd}/${i}
     done
 }
 
-eval_res() {
-    outd=out/${task}_t5-small_2hop_d8_L5_1e-3_mask
-    python scripts/evaluate.py \
-        ${outd}/noinfo/result_${test_prompt}.json
-    for i in ${info_types_all[$task]}; do
-        if [ ${i} != 'noinfo' ]; then
-            python scripts/evaluate.py \
-                ${outd}/${i}/result_${test_prompt}.json --t-test ${outd}/noinfo/result_${test_prompt}.json
-        fi
-    done
-}
-
-
-
 for task in Foursquare_tsmc2024_{TKY,NYC,NYC-TKY} Foursquare_TIST2015 Foursquare_WWW2019 gowalla; do
     prep
-    train_conditioned
-    eval_res > out/result_${task}.tsv
+    train_and_test_conditioned
 done
 
