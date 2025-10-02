@@ -9,20 +9,18 @@ This project builds upon **KP4SR**, which serves as our baseline model.
 
 ---
 
-# Knowledge Prompts for POI Recommendation
+## Knowledge Prompts for POI Recommendation
 
-## Masked Personalized Prompt
+- Masked Personalized Prompt
 ![MPP](image/mpp.png)
-
-## Venue Knowledge Prompt
+- Venue Knowledge Prompt
 ![kp_venue](image/kp_venue.png)
-
-## User Knowledge Prompt
+- User Knowledge Prompt
 ![kp_user](image/kp_user.png)
 
 ---
 
-# Data Preprocessing
+## Data Preprocessing
 1. Convert the original data and add additional information.  
    - See the README in the `preprocess` directory.  
 2. Prepare the data required by KP4SR.  
@@ -30,7 +28,7 @@ This project builds upon **KP4SR**, which serves as our baseline model.
 
 ---
 
-# Model Training and Testing
+## Model Training and Testing
 Once the data are prepared, run:
 
 ```bash
@@ -38,7 +36,7 @@ bash run_poi.sh
 ```
 
 ---
-# Citation
+## Citation
 If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{Tachioka2025_RecTour,
