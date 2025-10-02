@@ -1,5 +1,4 @@
-# KP4POI
-Knowledge Prompting for Point of Interest (POI) Recommendation
+# Knowledge Prompting for Point of Interest (POI) Recommendation (KP4POI)
 
 ![KP4POI](image/LLM_recom.png)
 
@@ -42,7 +41,7 @@ bash run_poi.sh
 # Citation
 If you find this work useful, please cite our paper:
 ```bibtex
-@inproceedings{
+@inproceedings{Tachioka2025_RecTour,
   author    = {Yuuki Tachioka},
   title     = {{KP4POI}: Efficient POI Recommendation on Large-Scale Datasets via Knowledge Prompting of Venues and Users},
   booktitle = {Proceedings of the ACM RecSys Workshop on Recommenders in Tourism @ 19th ACM Conference on Recommender Systems (RecSys 2025)},
