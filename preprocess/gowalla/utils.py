@@ -23,7 +23,7 @@ def get_emb(g):
     # set parameter
     vec.set_parameter(dimensions=128,walk_length=5,num_walks=10,p=1,q=1,workers=4,window=15,min_count=1,sg=1)
 
-    # conduct node2vec algorithm and transform to d-diimensional vectors
+    # conduct node2vec algorithm and transform to d-dimensional vectors
     vec.conduct_vectorization()
 
     # obtain d-dimensional vectors
@@ -46,10 +46,10 @@ def recursive_clustering(g,vec_df):
     # obtain the first step result
     first_res = dat.get_first_step()
 
-    # save the result (you can set this reuslt with 'dat.set_first_step()' and skip the above)
+    # save the result (you can set this result with 'dat.set_first_step()' and skip the above)
     pd.to_pickle(first_res,'first_res.pkl')
 
-    # move on to the recursive clstering step
+    # move on to the recursive clustering step
     dat.recursive_step(min_threshold=20,rich_threshold=0.8,min_q=0.4,do_plot=False,centrality_centroid=False,ns=5)
 
     # summarize the result
